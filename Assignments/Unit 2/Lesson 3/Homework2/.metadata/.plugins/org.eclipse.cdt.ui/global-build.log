@@ -1,0 +1,9 @@
+00:34:52 **** Incremental Build of configuration Debug for project Task8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Task8.o" "..\\src\\Task8.c" 
+..\src\Task8.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(){
+      ^~~~
+gcc -o Task8.exe "src\\Task8.o" 
+Info: Nothing to build for Task8
+Info: Nothing to build for Task8

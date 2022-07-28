@@ -10,5 +10,5 @@ int main(void) {
 	float x,y;
 	printf("Enter two numbers");
 	scanf("%f  %f",&x ,&y);
-	printf("product %f", x*y);
+	printf("product %f", x+y);
 }

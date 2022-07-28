@@ -7,8 +7,8 @@ int main(void) {
 	setvbuf(stdout, NULL, _IONBF, 0);
 	setvbuf(stderr, NULL, _IONBF, 0);
 
-	float x,y;
-	printf("Enter two numbers");
-	scanf("%f  %f",&x ,&y);
-	printf("product %f", x*y);
+	int x,y;
+	printf("Enter two integers");
+	scanf("%d  %d",&x ,&y);
+	printf("sum %d" x+y);
 }
