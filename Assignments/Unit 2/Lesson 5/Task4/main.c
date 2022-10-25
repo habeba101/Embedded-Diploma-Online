@@ -11,7 +11,8 @@ int main() {
     return 0;
 }
 int PowerNum(int base,int pow){
-    int i,mul=1;
-    for(i=0;i<pow;i++) mul*=base;
-    return mul;
+    int mul =base;
+    pow--;
+    if(pow>0)return mul*PowerNum(base,pow);
+
 }
