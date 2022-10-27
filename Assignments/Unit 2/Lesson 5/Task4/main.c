@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 int PowerNum(int base,int pow);
 int main() {
+
     int x,y,result;
     printf("enter base number");
     scanf("%d",&x);
