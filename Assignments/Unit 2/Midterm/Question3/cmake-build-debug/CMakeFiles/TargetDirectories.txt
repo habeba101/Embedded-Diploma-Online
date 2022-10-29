@@ -1,3 +1,0 @@
-C:/Habeba/Embedded-Diploma-Online/Assignments/Unit 2/Midterm/Question3/cmake-build-debug/CMakeFiles/Question3.dir
-C:/Habeba/Embedded-Diploma-Online/Assignments/Unit 2/Midterm/Question3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Habeba/Embedded-Diploma-Online/Assignments/Unit 2/Midterm/Question3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
