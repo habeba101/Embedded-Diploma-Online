@@ -6,9 +6,9 @@
 
 ### First Term ![](https://geps.dev/progress/20)
 
-* Unit 1: Diploma Prerequisites ![](https://geps.dev/progress/87)
-* Unit 2: C Programming ![](https://geps.dev/progress/0)
-* Unit 3: Embedded C ![](https://geps.dev/progress/0)
+* Unit 1: Diploma Prerequisites ![](https://geps.dev/progress/100)
+* Unit 2: C Programming ![](https://geps.dev/progress/90)
+* Unit 3: Embedded C ![](https://geps.dev/progress/33)
 * Unit 4: System Architect ![](https://geps.dev/progress/0)
 * Unit 5: First Term Projects ![](https://geps.dev/progress/0)
 --------------------------------
