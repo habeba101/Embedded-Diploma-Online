@@ -1,0 +1,26 @@
+CC=arm-none-eabi-
+CFLAGS =-mcpu=cortex-m3 -g -gdwarf-2
+INCS=-I .
+LIBS=
+SRC= $(wildcard *.c)
+OBJ= $(SRC:.c=.o)
+AS = $(wildcard *.s)
+ASOBJ = $(AS:.s=.o)
+all: learn-in-depth-CortexM4.hex
+
+
+%.o : %.c 
+	$(CC)gcc.exe  $(INCS) $(CFLAGS) -c $< -o $@
+
+learn-in-depth.elf : $(OBJ) 
+	$(CC)ld.exe -T Linker_Script.ld $(OBJ)  -o $@ -Map=Map_file.Map
+
+learn-in-depth-CortexM4.hex : learn-in-depth.elf 
+	$(CC)objcopy.exe -O binary $< $@
+	@echo "Everything is build"
+clean:
+	rm main.o 
+	rm startup.o 
+	rm learn-in-depth.elf 
+	rm learn-in-depth-CortexM4.hex
+	@echo "Everything clean"
