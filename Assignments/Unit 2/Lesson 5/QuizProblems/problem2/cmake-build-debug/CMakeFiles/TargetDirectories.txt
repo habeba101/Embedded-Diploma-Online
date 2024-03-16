@@ -1,3 +1,0 @@
-C:/Habeba/Embedded-Diploma-Online/Assignments/Unit 2/Lesson 5/problem2/cmake-build-debug/CMakeFiles/problem2.dir
-C:/Habeba/Embedded-Diploma-Online/Assignments/Unit 2/Lesson 5/problem2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Habeba/Embedded-Diploma-Online/Assignments/Unit 2/Lesson 5/problem2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
