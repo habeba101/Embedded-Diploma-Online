@@ -1,0 +1,18 @@
+01:21:21 **** Rebuild of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -o Test.exe "src\\Test.o" 
+Info: Nothing to build for Test
+Info: Nothing to build for Task1
+Info: Nothing to build for Task2
+Info: Nothing to build for Task3
+Info: Nothing to build for Task4
+Info: Nothing to build for Task5
+Info: Nothing to build for Task6
+Info: Nothing to build for Task7
+Info: Nothing to build for Task8
+01:23:07 **** Incremental Build of configuration Debug for project Test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test.o" "..\\src\\Test.c" 
+gcc -o Test.exe "src\\Test.o" 
+Info: Nothing to build for Test

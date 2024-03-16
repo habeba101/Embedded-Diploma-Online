@@ -1,0 +1,14 @@
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void main(void) {
+	setvbuf(stdout, NULL, _IONBF, 0);
+		setvbuf(stderr, NULL, _IONBF, 0);
+
+		float x,y;
+		printf("Enter two numbers");
+		scanf("%f  %f",&x ,&y);
+		printf("product %f", x*y);
+}
