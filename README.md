@@ -4,7 +4,7 @@
 ---------------------------
 ## Contents
 
-### First Term ![](https://geps.dev/progress/20)
+### First Term ![](https://geps.dev/progress/79)
 
 * Unit 1: Diploma Prerequisites ![](https://geps.dev/progress/100)
 * Unit 2: C Programming ![](https://geps.dev/progress/94)
